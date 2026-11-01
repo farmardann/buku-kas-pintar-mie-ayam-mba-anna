@@ -1,0 +1,6 @@
+{
+  "name": "Buku Kas Pintar Mie Ayam Mba Anna",
+  "description": "Aplikasi pencatatan keuangan dan kasir harian cepat untuk UMKM kuliner Mie Ayam Mba Anna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
